@@ -317,7 +317,7 @@ Add your program screenshots to `assets/screenshots/` in the repository. Replace
 
 | Screenshot 5 | Screenshot 6 |
 |---|---|
-| ![Hand tracking screenshot 5](https://github.com/shahidazam2020-oss/Finger-status-detection/blob/master/.github/workflows/hand_tracking_5_4K_enhanced.png) | ![Hand tracking screenshot 6](assets/screenshots/screenshot-6.png) |
+| ![Hand tracking screenshot 5](https://github.com/shahidazam2020-oss/Finger-status-detection/blob/master/.github/workflows/hand_tracking_5_4K_enhanced.png) | ![Hand tracking screenshot 6](https://github.com/shahidazam2020-oss/Finger-status-detection/blob/master/.github/workflows/hand_tracking_6_4K_enhanced.png) |
 | Screenshot 5 description | Screenshot 6 description |
 
 ### Project Demonstration
