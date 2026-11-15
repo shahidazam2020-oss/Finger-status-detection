@@ -300,6 +300,26 @@ Add actual application screenshots and a short animated GIF to demonstrate the s
 | Finger Counting | Display of raised fingers. |
 | Virtual Drawing | Drawing using the index fingertip. |
 
+---
+## 📸 Screenshots
+
+Add your program screenshots to `assets/screenshots/` in the repository. Replace the filenames below with the names of your image files.
+
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| ![Hand tracking screenshot 1](assets/screenshots/screenshot-1.png) | ![Hand tracking screenshot 2](assets/screenshots/screenshot-2.png) |
+| Screenshot 1 description | Screenshot 2 description |
+
+| Screenshot 3 | Screenshot 4 |
+|---|---|
+| ![Hand tracking screenshot 3](assets/screenshots/screenshot-3.png) | ![Hand tracking screenshot 4](assets/screenshots/screenshot-4.png) |
+| Screenshot 3 description | Screenshot 4 description |
+
+| Screenshot 5 | Screenshot 6 |
+|---|---|
+| ![Hand tracking screenshot 5](assets/screenshots/screenshot-5.png) | ![Hand tracking screenshot 6](assets/screenshots/screenshot-6.png) |
+| Screenshot 5 description | Screenshot 6 description |
+
 ### Project Demonstration
 
 Once uploaded, the animated demonstration can be displayed here:
