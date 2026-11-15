@@ -303,8 +303,6 @@ Add actual application screenshots and a short animated GIF to demonstrate the s
 ---
 ## 📸 Screenshots
 
-Add your program screenshots to `assets/screenshots/` in the repository. Replace the filenames below with the names of your image files.
-
 | Screenshot 1 | Screenshot 2 |
 |---|---|
 | ![Hand tracking screenshot 1](https://github.com/shahidazam2020-oss/Finger-status-detection/blob/master/.github/workflows/hand_tracking_1_4K_enhanced.png) | ![Hand tracking screenshot 2](https://github.com/shahidazam2020-oss/Finger-status-detection/blob/master/.github/workflows/hand_tracking_2_4K_enhanced.png) |
