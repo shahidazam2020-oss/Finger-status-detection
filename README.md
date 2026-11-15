@@ -316,7 +316,7 @@ Add actual application screenshots and a short animated GIF to demonstrate the s
 | Screenshot 5 | Screenshot 6 |
 |---|---|
 | ![Hand tracking screenshot 5](https://github.com/shahidazam2020-oss/Finger-status-detection/blob/master/.github/workflows/hand_tracking_5_4K_enhanced.png) | ![Hand tracking screenshot 6](https://github.com/shahidazam2020-oss/Finger-status-detection/blob/master/.github/workflows/hand_tracking_6_4K_enhanced.png) |
-| Screenshot 5 | Screenshot 6 description |
+| Screenshot 5 | Screenshot 6  |
 
 
 ---
