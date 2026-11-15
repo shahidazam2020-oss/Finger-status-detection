@@ -320,13 +320,6 @@ Add your program screenshots to `assets/screenshots/` in the repository. Replace
 | ![Hand tracking screenshot 5](https://github.com/shahidazam2020-oss/Finger-status-detection/blob/master/.github/workflows/hand_tracking_5_4K_enhanced.png) | ![Hand tracking screenshot 6](https://github.com/shahidazam2020-oss/Finger-status-detection/blob/master/.github/workflows/hand_tracking_6_4K_enhanced.png) |
 | Screenshot 5 description | Screenshot 6 description |
 
-### Project Demonstration
-
-Once uploaded, the animated demonstration can be displayed here:
-
-```markdown
-![Hand and Finger Tracking Demo](assets/demo/hand-finger-tracking-demo.gif)
-```
 
 ---
 
