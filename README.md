@@ -290,7 +290,7 @@ python hand-tracking.py
 
 ## 🖼️ Demo and Screenshots
 
-Add actual application screenshots and a short animated GIF to demonstrate the system.
+**Add actual application screenshots and a short animated GIF to demonstrate the system.**
 
 | Screenshot | Description |
 |---|---|
