@@ -170,7 +170,7 @@ This project implements a real-time **Hand and Finger Tracking System** using Py
 
 ## 🎨 Virtual Drawing System
 
-The application uses the index fingertip to control the virtual drawing interface.
+**The application uses the index fingertip to control the virtual drawing interface.**
 
 ### Drawing Functionality
 
