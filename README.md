@@ -106,7 +106,7 @@ This project implements a real-time **Hand and Finger Tracking System** using Py
 
 **The program also checks two angles for each finger and displays a bent-finger label when both angles are below 85°.**
 
-*Note: These are the angle-based conditions implemented in the current program.*
+**Note: These are the angle-based conditions implemented in the current program.**
 
 ---
 
