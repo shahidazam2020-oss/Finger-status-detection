@@ -31,7 +31,7 @@ This project implements a real-time **Hand and Finger Tracking System** using Py
 
 **The application captures live webcam video, detects up to two hands, identifies their 21 hand landmarks, and analyses individual finger positions using joint-angle calculations.**
 
-In addition to hand landmark detection, the system performs finger-level analysis to identify raised and bent fingers, calculate the number of raised fingers, and display individual finger statuses.
+**In addition to hand landmark detection, the system performs finger-level analysis to identify raised and bent fingers, calculate the number of raised fingers, and display individual finger statuses.**
 
 The application also includes a virtual drawing feature that allows users to draw on the screen using their index fingertip and select different colours through an interactive colour palette.
 
