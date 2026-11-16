@@ -97,7 +97,7 @@ This project implements a real-time **Hand and Finger Tracking System** using Py
 | Ring | 13, 14, 15, 16 |
 | Pinky | 17, 18, 19, 20 |
 
-Finger positions are evaluated using joint-angle calculations.
+**Finger positions are evaluated using joint-angle calculations.**
 
 **Finger Status Logic:**
 
