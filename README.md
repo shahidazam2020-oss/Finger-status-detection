@@ -69,7 +69,7 @@ This project implements a real-time **Hand and Finger Tracking System** using Py
 
 ## 🧠 Hand and Finger Tracking
 
-The project combines two related computer vision functionalities.
+**The project combines two related computer vision functionalities.**
 
 ### 1. Hand Tracking
 
