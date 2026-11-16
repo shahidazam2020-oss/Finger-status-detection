@@ -323,7 +323,7 @@ python hand-tracking.py
 
 ## 📚 Learning Outcomes
 
-Through this project, the following concepts are explored:
+**Through this project, the following concepts are explored:**
 
 - Real-time computer vision applications.
 - Hand detection and landmark localization.
