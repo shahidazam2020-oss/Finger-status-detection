@@ -182,7 +182,7 @@ The application uses the index fingertip to control the virtual drawing interfac
 
 ### Available Colours
 
-The current program includes seven drawing colours:
+**The current program includes seven drawing colours:**
 
 - Blue
 - Green
