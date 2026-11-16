@@ -87,7 +87,7 @@ This project implements a real-time **Hand and Finger Tracking System** using Py
 
 ### 2. Finger Tracking
 
-The system analyses five individual fingers:
+**The system analyses five individual fingers:**
 
 | Finger | Landmark Indices |
 |---|---|
