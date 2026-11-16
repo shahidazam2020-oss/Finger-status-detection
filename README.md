@@ -77,7 +77,7 @@ This project implements a real-time **Hand and Finger Tracking System** using Py
 
 **Each detected hand contains 21 landmarks representing important hand joints and fingertip positions.**
 
-The application:
+**The application:**
 
 - Detects up to two hands.
 - Retrieves hand landmark coordinates.
