@@ -239,7 +239,7 @@ Hand-and-Finger-Tracking-with-Virtual-Drawing/
         └── hand-finger-tracking-demo.gif
 ```
 
-*This is a recommended structure. The screenshots and GIF should be added to the repository when available. The program automatically downloads the MediaPipe model if it is not already present.*
+**This is a recommended structure. The screenshots and GIF should be added to the repository when available. The program automatically downloads the MediaPipe model if it is not already present.**
 
 ---
 
