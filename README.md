@@ -75,7 +75,7 @@ This project implements a real-time **Hand and Finger Tracking System** using Py
 
 **The MediaPipe Hand Landmarker detects hand landmarks and identifies their positions in the webcam frame.**
 
-Each detected hand contains 21 landmarks representing important hand joints and fingertip positions.
+**Each detected hand contains 21 landmarks representing important hand joints and fingertip positions.**
 
 The application:
 
