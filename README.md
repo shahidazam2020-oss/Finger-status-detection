@@ -338,7 +338,7 @@ python hand-tracking.py
 
 ## 🔮 Future Improvements
 
-Potential enhancements include:
+**Potential enhancements include:**
 
 - More advanced hand gesture recognition.
 - Improved finger-state classification.
