@@ -35,7 +35,7 @@ This project implements a real-time **Hand and Finger Tracking System** using Py
 
 **The application also includes a virtual drawing feature that allows users to draw on the screen using their index fingertip and select different colours through an interactive colour palette.**
 
-The project combines computer vision, hand landmark detection, finger tracking, gesture analysis, and interactive drawing in a single application.
+**The project combines computer vision, hand landmark detection, finger tracking, gesture analysis, and interactive drawing in a single application.**
 
 ## 🎯 Project Objectives
 
