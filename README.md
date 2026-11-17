@@ -383,8 +383,11 @@ Institute of Management Sciences, Peshawar, Pakistan
 
 This project is available for educational and learning purposes. Add a LICENSE file to the repository if you intend to distribute it under a specific open-source license.
 
+
 ---
 **Suggestions, improvements, and contributions are welcome.**
+
+1. Fork this repository.
 
 
 <div align="center">
