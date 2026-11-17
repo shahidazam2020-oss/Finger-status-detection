@@ -388,8 +388,8 @@ This project is available for educational and learning purposes. Add a LICENSE f
 **Suggestions, improvements, and contributions are welcome.**
 
 1. Fork this repository.
-
 2. Create a new branch.
+3. Make your changes.
 
 
 <div align="center">
