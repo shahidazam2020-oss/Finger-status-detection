@@ -389,6 +389,8 @@ This project is available for educational and learning purposes. Add a LICENSE f
 
 1. Fork this repository.
 
+2. Create a new branch.
+
 
 <div align="center">
 
