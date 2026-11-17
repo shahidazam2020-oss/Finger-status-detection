@@ -352,8 +352,6 @@ python hand-tracking.py
 
 ## 👨‍💻 Developer
 
-<div align="center">
-
 ### Shahid Azam
 
 **MS Computer Science | Artificial Intelligence | Python Development**
