@@ -21,16 +21,17 @@
   <a href="#-developer">Developer</a>
 </p>
 
+
   <a href="https://github.com/shahidazam2020-oss/Finger-status-detection/stargazers">
-    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Finger-status-detection?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Finger-status-detection?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
   <a href="https://github.com/shahidazam2020-oss/Finger-status-detection/forks">
-    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Finger-status-detection?style=social" alt="GitHub Forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Finger-status-detection?style=social&cacheSeconds=60" alt="GitHub Forks">
   </a>
   <a href="https://github.com/shahidazam2020-oss/Finger-status-detection/commits">
-    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Finger-status-detection?style=flat-square" alt="GitHub Last Commit">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Finger-status-detection?style=flat-square" alt="Last Commit">
   </a>
-</p>
+
 ---
 
 ## 📌 Overview
