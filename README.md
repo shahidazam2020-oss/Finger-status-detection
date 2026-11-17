@@ -21,11 +21,10 @@
   <a href="#-developer">Developer</a>
 </p>
 
-</div>
 <br>
 [![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/ImageProcessingWithMATLAB?style=social)](https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB/stargazers)
 
-
+</div>
 ---
 
 ## 📌 Overview
