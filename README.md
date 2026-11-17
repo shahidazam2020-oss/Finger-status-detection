@@ -28,7 +28,7 @@
   <a href="https://github.com/shahidazam2020-oss/Finger-status-detection/forks">
     <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Finger-status-detection?style=social&cacheSeconds=60" alt="GitHub Forks">
   </a>
-  <a href="https://github.com/shahidazam2020-oss/Finger-status-detection/commits">
+  <a href="https://img.shields.io/github/last-commit/shahidazam2020-oss/Finger-status-detection">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Finger-status-detection?style=flat-square" alt="Last Commit">
   </a>
 
