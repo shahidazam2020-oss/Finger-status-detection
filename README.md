@@ -26,10 +26,10 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/shahidazam2020-oss/ImageProcessingWithMATLAB?style=flat-square)](https://github.com/shahidazam2020-oss/ImageProcessingWithMATLAB/commits/master)
 
 <p align="left">
-  <a href="https://github.com/shahidazam2020-oss/Finger-status-detection">
+  <a href="https://github.com/shahidazam2020-oss/Finger-status-detection.git">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/REPOSITORY-NAME?style=social" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/shahidazam2020-oss/Finger-status-detection">
+  <a href="https://github.com/shahidazam2020-oss/Finger-status-detection.git">
     <img src="https://img.shields.io/github/forks/shahidazam2020-oss/REPOSITORY-NAME?style=social" alt="GitHub Forks">
   </a>
 </p>
