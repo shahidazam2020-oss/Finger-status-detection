@@ -414,7 +414,6 @@ This project is available for educational and learning purposes. Add a LICENSE f
 5. 📤 Submit a Pull Request.
 
 
-
 <div align="center">
 
 ### ⭐ If you find this project interesting, consider giving the repository a star!
