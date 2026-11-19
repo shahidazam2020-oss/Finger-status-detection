@@ -411,6 +411,7 @@ This project is available for educational and learning purposes. Add a LICENSE f
 2. 📥 Clone your fork.
 3. 🌿 Create a new branch.
 4. ✏️ Make your proposed improvements.
+5. 📤 Submit a Pull Request.
 
 
 
