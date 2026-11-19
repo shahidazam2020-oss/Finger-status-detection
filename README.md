@@ -405,6 +405,7 @@ This project is available for educational and learning purposes. Add a LICENSE f
 
 **This repository aims to support academic knowledge sharing and further research in machine learning and healthcare prediction.**
 
+### 🌟 How to Contribute
 
 
 
