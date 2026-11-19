@@ -399,6 +399,8 @@ This project is available for educational and learning purposes. Add a LICENSE f
 3. Make your changes.
 4. Submit a pull request.
 
+---
+# 🤝 CONTRIBUTING
 
 <div align="center">
 
