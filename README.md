@@ -421,3 +421,8 @@ This project is available for educational and learning purposes. Add a LICENSE f
 **Built with Python, MediaPipe, and OpenCV.**
 
 </div>
+
+---
+<p align="center">
+  <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>
+</p>
